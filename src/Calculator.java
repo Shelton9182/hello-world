@@ -21,7 +21,7 @@ public class Calculator {
         System.out.println("Which operation do you want to perform?");
         int choice = scan.nextInt();
         scan.close();
-
+        //this is a new comment
 
         if (choice == 1) {
             double sum1 = input1 + input2;
